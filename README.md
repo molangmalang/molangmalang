@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**molangmalang/molangmalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on connecting AI with the outside world.
 - 🌱 I’m currently learning the basics of Github and fundamentals of AI 
 - 👯 I’m looking to collaborate with anyone who is interested in coding and gaming and sports
